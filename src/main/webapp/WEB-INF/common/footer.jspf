@@ -1,0 +1,14 @@
+<!-- footer -->
+    <div class="container">
+        <div class="row mt-3 text-center text-muted">
+            <p>made with <span style="color:red"> &hearts; </span>  by <img src="assets/img/LHP-logo.svg" style="width:30px;height:30px;" alt="my-logo"></p>
+        </div>
+    </div>
+</body>
+<!--js bootstrap  -->
+<script src="/assets/js/myJs.js"></script>
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"></script>
+
+</html>
